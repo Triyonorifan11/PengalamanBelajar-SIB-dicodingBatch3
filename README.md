@@ -1,7 +1,7 @@
 # PengalamanBelajar-SIB-dicodingBatch3
 Repositori proses belajar di SIB dicoding batch 3 tahun 2022
 
-01 Agustus 2022
+**01 Agustus 2022**  
 *Belajar Logika Pemrograman (Programming Logic 101). Progress(100%) dan sudah lulus*
 * Belajar Logika pemrograman dasar
 * Logika dan Algoritma pemrograman
@@ -17,7 +17,7 @@ Repositori proses belajar di SIB dicoding batch 3 tahun 2022
 * Dasar Git
 * Studi Kasus Pengalaman Belajar
 
-02 Agustus 2022
+**02 Agustus 2022**  
 *Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. Progress(45%)*
 * Memahami Kebutuhan Aplikasi
 * Perencanaan Modifikasi Aplikasi
