@@ -1,3 +1,4 @@
 target 
 - buat web profile
 - sertifkat kompetensi diperbanyak
+- update profile setiap bulan
