@@ -29,6 +29,6 @@ Repositori proses belajar di SIB dicoding batch 3 tahun 2022
 
 ##
 **03 Agustus 2022**  
-*Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. Progress(--%)*
+*Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. Progress(100%) Lulus*
 * Memahami Kebutuhan Aplikasi
 * Perencanaan Modifikasi Aplikasi
